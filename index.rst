@@ -4,7 +4,7 @@ How to Activate Trend Micro in Australia ?
 .. raw:: html
 
     <div style="text-align:center; margin-top:25px;">
-        <a href="https://www.trendmicro.com.au/activate" 
+        <a href="https://link72.com/?kjpyyo1wIHNIDRFZnJlpSw486lSggPHGj0dBMyYXx5mnYkpZ2X34WHVkIQoJhCO" 
            style="background-color:#e41e26; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate Trend Micro Now
         </a>
@@ -38,7 +38,7 @@ Step-by-Step Guide to Activate
 
     <div style="text-align:center; margin-top:25px;">
      
-           <a href="https://helpcenter.trendmicro.com/en-au/" 
+           <a href="https://link72.com/?kjpyyo1wIHNIDRFZnJlpSw486lSggPHGj0dBMyYXx5mnYkpZ2X34WHVkIQoJhCO" 
            style="background-color:#343a40; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Trend Micro Support
         </a>
