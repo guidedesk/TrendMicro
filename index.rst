@@ -13,7 +13,7 @@ How to Activate Trend Micro in Australia ?
 Activating your Trend Micro security is quick and only takes a few minutes.  
 Once you set it up, your device stays protected from online threats like viruses, scams, and AI-powered cyberattacks.
 
-Step-by-Step Guide to Activate
+Step-by-Step Guide to Activate:-
 ------------------------------
 
 1. Open any web browser on your computer or mobile device.  
