@@ -1,1 +1,1 @@
-# TrendMicroguidecenter
+# TrendMicroGuideCenter
